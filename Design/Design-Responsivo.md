@@ -38,9 +38,11 @@ Mas como já explicado não existe um padrão com exatidão!
 Como já deve estar subentendido nós trabalhamos a responsividade através do Css de nosso projeto.
 
 #### Mas como fazemos isso? 
-Dois elementos que podem nos ajudar muito a trabalhar a responsividade dos nossos sites são:
+Nos temos tres pilares do design responsivo são eles:
+ - Layout Fuido - onde utilizamos o  Flexbox;
+ - Imagens Responsivas ;
  - As media querys.
- - Layout Flexbox ou grid
+ 
 
 ### O que é uma media query?
 
