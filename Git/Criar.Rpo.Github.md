@@ -2,30 +2,31 @@
 Aqui vamos explorar como criar um novo repositório no github
 
 
-No seu repositório github na aba repositório clique em new
+##### No seu repositório github na aba repositório clique em new
 
 <img src="./image/new.PNG" alt="o botao new fica localizado na lateral superior direita e um botao verde com letras brancas "/>
-##
-Logo após você será direcionado para a pagina de criação do um novo repositório 
+
+
+##### Logo após você será direcionado para a pagina de criação do um novo repositório 
 <img src="./image/create_repo.PNG" alt="pagina contem alguns campos que devem ser preenchidos para a criacao do repositório"/>
-##
-Nesta página no campo **repository name** você pode indicao o nome que você deseja que seu repositorio tenha. 
+
+
+
+##### Nesta página no campo **repository name** você pode indicao o nome que você deseja que seu repositorio tenha. 
 <img src="./image/create_repo_name.PNG" alt="pagina contem uma seta indicativa de onde vede ser preenchido o nome do repositorio"/>
 
-##
 - A descrição não e obrigatória mas pode preencher escrevendo sobre o intuito do projeto.
 -  Você pode deixar o seu projeto visivel ao publico ou em modo privado 
 
 
-##
 
-Os campos indicados a baixo fica a sua disposicao aciona-los ou não caso acione o seu repositorio remoto automaticamente ira criar ja um repositorio correspondente
+##### Os campos indicados a baixo fica a sua disposicao aciona-los ou não caso acione o seu repositorio remoto automaticamente ira criar ja um repositorio correspondente
 
 <img src="./image/create_repo_campos.PNG" alt="pagina contem uma seta indicativa dos campos que podem ser acionados sao eles  Readme, gitignore e choose a license"/>
-##
-Apos os campos preenchidos proceguir clicando em Create new repository.
 
-Você será levado para a seguinte pagina.
+###### Apos os campos preenchidos proceguir clicando em Create new repository.
+
+##### Você será levado para a seguinte pagina.
 
 <img src="./image/Quick_Setup.PNG"/>
 
