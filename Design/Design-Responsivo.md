@@ -45,5 +45,4 @@ Nos temos tres pilares do design responsivo são eles:
 
 
 ## Contribuições
-
 Fique a vontade para fazer sua contribuição sobre responsividade e demais temas
