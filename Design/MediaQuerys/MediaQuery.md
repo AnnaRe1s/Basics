@@ -69,3 +69,9 @@ Quando o meu dispositivo chegar a largura máxima de 480px, ele irá mudar o bac
  - A sua media query deve ficar sempre no final do seu css!
 
 
+## DESAFIO 
+Tente reproduzir esse [frame](https://www.figma.com/file/CSySCaphNRyX8K99RJgLbX/Sounds-effect-library---responsive-landing-page-(Community)?node-id=0%3A1) 
+
+<img src="./Project/image/mokup.PNG" alt="3 telas em indicando como ficaria o desing em diferentes tamanhos" />
+
+Projeto criado por [@bdyhm](https://www.figma.com/@bdyhm)
