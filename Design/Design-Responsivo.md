@@ -42,7 +42,7 @@ Nos temos tres pilares do design responsivo são eles:
  - As media querys.
  
 
-### Saiba mais sobre Media Querys [aqui!]()
+### Saiba mais sobre Media Querys [aqui!](https://github.com/AnnaRe1s/Basics/blob/main/Design/MediaQuery.md)
 
 
 
