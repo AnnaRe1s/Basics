@@ -81,5 +81,26 @@ if (hours >= 0 && hours <= 11) {
 
 
 
+/* Ternario
+  o ternario nada mais e que um grande if else porem com uma sintaxe curta 
 
+  o Ternario =  ? :
+  geralmente funciona assim
+  
+  (condicao) ? resposta se for verdadeiro : falso
 
+  vamos exemplificar em if else e transforma-lo em ternario 
+
+*/
+
+const age = 15
+
+if(age >= 18 ) {
+  console.log("ok! pode vender bebidas alcoolicas")
+} else {
+  console.log("Voce é menor não pode consumir essa bebida")
+}
+
+//ternario
+
+age >= 18 ? console.log("ok! pode vender bebidas alcoolicas") : console.log("Voce e menor nao pode consumir essa bebida")
