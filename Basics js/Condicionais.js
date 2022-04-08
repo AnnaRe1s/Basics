@@ -103,4 +103,4 @@ if(age >= 18 ) {
 
 //ternario
 
-age >= 18 ? console.log("ok! pode vender bebidas alcoolicas") : console.log("Voce e menor nao pode consumir essa bebida")
+console.log(age >= 18 ? "ok! pode vender bebidas alcoolicas" : "Voce e menor nao pode consumir essa bebida")
