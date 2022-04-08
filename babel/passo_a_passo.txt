@@ -1,0 +1,22 @@
+Passo 1 -  npm init -y
+Passo 2 -  npm install --save-dev @babel/cli @babel/preset-env @babel/core
+passo 3  - criar uma pasta git ignore
+passo 4 -  criar uma pagina js (main)
+Passo 5 -  para transformar nosso codigo que esta na pasta main.js
+nos precisamos digitar o seguinte comando no terminal
+passo 6 - npx babel main.js - bundle.js --presets=@babel/env
+
+passo 7 -  criar um arquivo html
+passo 8 -  quando a gente for linkar o script no html para exibir mesmo que a gente trabalhe no main.js nos vamos vincular o bundle assim \
+ele vai poder ser acessivel para todos os navegadores 
+
+Mas para nao termos que ficar dando o comando do passo 6  toda vez que atualizarmos algo 
+siga os passos abaixo 
+
+Passo 1 -  no package.json no trecho scrpts nos vamos criar uma nova chave nome pode ser de sua escolha 
+
+Passo 2  -  na chave escrita digite o seguinte comando  
+
+"babel ./pastaQueVcEstaUsando.js -o ./bundle.js --presets=@babel/env -w"
+
+passo 3 -  no terminal rode o comando npm run nome da chave
