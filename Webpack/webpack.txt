@@ -1,0 +1,16 @@
+o webpack vai nos ajudar a converter os arquivos com liguam atual para os mais antigos 
+
+- npm init -y
+Intalacoes 
+
+- npm i -save-dev @babel/core @babel/cli @babel/preset-env babel-loader web
+
+depois de tudo instalado 
+- criar um pasta gitignore
+- colocar node modules e package-lock.json
+
+Criar um arquivo chamado webpack.config.json
+**o arquivo precisa ter esse nome!
+
+- Dentro dele a primeira coisa que temos que fazer e intanciar um modulo path do node para criarmos nosso caminhos dentro do webpack
+https://webpack.js.org/
